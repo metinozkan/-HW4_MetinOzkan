@@ -11,21 +11,21 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-HepsiBuradaCaseStudy_metinozkan-HepsiBuradaCaseStudy_metinozkanUITests.xcscheme</key>
+		<key>Pods-HW4_MetinOzkan-HW4_MetinOzkanUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>Pods-HepsiBuradaCaseStudy_metinozkan.xcscheme</key>
+		<key>Pods-HW4_MetinOzkan.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-HepsiBuradaCaseStudy_metinozkanTests.xcscheme</key>
+		<key>Pods-HW4_MetinOzkanTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_HepsiBuradaCaseStudy_metinozkan_HepsiBuradaCaseStudy_metinozkanUITests : NSObject
-@end
-@implementation PodsDummy_Pods_HepsiBuradaCaseStudy_metinozkan_HepsiBuradaCaseStudy_metinozkanUITests
-@end
